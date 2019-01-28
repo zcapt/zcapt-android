@@ -1,0 +1,25 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:elevation="2dp">
+
+    <ImageView
+        android:id="@+id/image"
+        android:layout_width="300dp"
+        android:layout_height="200dp"
+        android:contentDescription="@string/image" />
+
+    <ImageView
+        android:id="@+id/key"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:contentDescription="@string/key" />
+
+    <ImageView
+        android:id="@+id/loading"
+        android:layout_width="300dp"
+        android:layout_height="200dp"
+        android:contentDescription="@string/loading" />
+
+</FrameLayout>

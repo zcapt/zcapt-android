@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">zcapt</string>
+    <string name="image">zcaptImage</string>
+    <string name="key">zcaptKey</string>
+    <string name="loading">loading</string>
+    <string name="show">show</string>
+</resources>

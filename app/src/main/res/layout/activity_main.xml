@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    tools:context=".MainActivity">
+
+    <com.github.zcapt.view.ZcaptView
+        android:id="@+id/zcapt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#FFF"
+        android:elevation="2dp"
+        android:padding="8dp" />
+
+    <!--<FrameLayout-->
+    <!--android:layout_width="wrap_content"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:layout_gravity="center"-->
+    <!--android:background="#fff"-->
+    <!--android:elevation="2dp"-->
+    <!--android:padding="10dp">-->
+
+    <!--<FrameLayout-->
+    <!--android:layout_width="wrap_content"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:layout_gravity="center"-->
+    <!--android:elevation="2dp">-->
+
+    <!--<ImageView-->
+    <!--android:id="@+id/image"-->
+    <!--android:layout_width="300dp"-->
+    <!--android:layout_height="200dp"-->
+    <!--android:background="@color/colorAccent"-->
+    <!--android:contentDescription="@string/image" />-->
+
+    <!--<ImageView-->
+    <!--android:id="@+id/key"-->
+    <!--android:layout_width="50dp"-->
+    <!--android:layout_height="50dp"-->
+    <!--android:background="@color/colorPrimaryDark"-->
+    <!--android:contentDescription="@string/key" />-->
+
+    <!--</FrameLayout>-->
+
+    <!--</FrameLayout>-->
+
+
+</LinearLayout>
